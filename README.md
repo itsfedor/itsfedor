@@ -27,8 +27,7 @@
 - **ESL EdTech pipelines**: lesson-guide generators, personalized exercise
   builders, gamified English servers. Built for a private teaching practice
   with thousands of lessons delivered.
-- **Interactive web experiences**: scroll-driven decks, video showreels,
-  game-style demos, all deployed to GitHub Pages with CI.
+- **Interactive web demos**: game-style single-page apps deployed to GitHub Pages with CI.
 
 ## 📦 Featured projects
 
@@ -37,9 +36,6 @@
 | 🎓 **ESL Automation Suite** | AI teaching pipelines: lesson-guide generator, voice → Notion student tracker, TV-episode homework, C1 exercise builder | [repo](https://github.com/itsfedor/esl-automation-suite) |
 | 🧩 **ESL Minecraft Plugins** | Four custom PaperMC plugins: AI-scored chat money, earnings-driven level-ups, vocab quiz, daily tasks | [chat2earn](https://github.com/itsfedor/chat2earn) · [englishprogression](https://github.com/itsfedor/englishprogression) · [vocabquiz](https://github.com/itsfedor/vocabquiz) · [dailyenglish](https://github.com/itsfedor/dailyenglish) |
 | ⚡ **ChainLuck** | Provably-fair demo crypto casino: Dice, Plinko, Blackjack, Slots. Play money only | [repo](https://github.com/itsfedor/demo-casino) · [live](https://itsfedor.github.io/demo-casino) |
-| 🏛️ **ИИ × АРХИТЕКТУРА** | Scroll-driven deck: how AI actually enters an architecture/design firm's workflow | [repo](https://github.com/itsfedor/presentation) · [live](https://itsfedor.github.io/presentation) |
-| 🎬 **AI Experience** | Cinematic video-scroll showreel on adopting AI in a company | [repo](https://github.com/itsfedor/presentation-video) · [live](https://itsfedor.github.io/presentation-video) |
-| 📊 **C1 Visual Data Writing** | Personalized C1 academic-writing exercise for an ESL student | [repo](https://github.com/itsfedor/esl-visual-data) · [live](https://itsfedor.github.io/esl-visual-data) |
 
 ## ⚡ Recent activity
 
