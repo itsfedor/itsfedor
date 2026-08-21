@@ -40,7 +40,8 @@
 ## ⚡ Recent activity
 
 <!-- WORKLOG:START -->
-_No entries yet._
+- **Aug 21**: Casino polish shipped to demo-casino (Crash rebuild, Dice controls, casino audio); new edvibe-exercise-format skill built from 31 Edvibe FAQ articles; worklog cron moved to a two-phase approval flow.
+- **Aug 20**: GitHub portfolio overhaul: profile README, 3 new public repos, social previews, gitleaks scan clean.
 <!-- WORKLOG:END -->
 
 _Appended automatically each evening. See [worklog](https://github.com/itsfedor/worklog)._
