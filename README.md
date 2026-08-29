@@ -42,6 +42,7 @@
 
 <!-- WORKLOG:START -->
 - **2026-08-29**: Finished the video pipeline end to end: Deepgram Nova-3 transcription with EN+RU detection verified live (raw-body upload workaround for the sandbox proxy), normalizer, transcript packer.
+- **2026-08-29**: Installed video-use, the browser-use team's agent-native video editing toolkit (21.2k stars, MIT), registered as a Hermes skill; SEO pass over all 8 public repos (descriptions, topics, demo-casino Pages link).
 - **2026-08-27**: Built a clean-B1 teacher's guide from the TED-Ed Prohibition video (Rod Phillips): simpler vocabulary than the B1+ version (ban, smuggling, corruption), stronger everyday phrases (make off with, stock up, meet the demand), comprehension by timestamps, differentiation for weak and strong students.
 - **2026-08-26**: Built a B1+ teacher's guide from "What AI Does to the Minds of Novice Coders" (JetBrains Academy, 7:29) for the same developer student: psychology-heavy vocabulary, comprehension in timestamped sections, verb-pattern grammar block taken from the script.
 <!-- WORKLOG:END -->
