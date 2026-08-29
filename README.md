@@ -36,6 +36,7 @@
 | 🎓 **ESL Automation Suite** | AI teaching pipelines: lesson-guide generator, voice → Notion student tracker, TV-episode homework, test-english adaptation | [repo](https://github.com/itsfedor/esl-automation-suite) |
 | 🧩 **ESL Minecraft Plugins** | Four custom PaperMC plugins: AI-scored chat money, earnings-driven level-ups, vocab quiz, daily tasks | [chat2earn](https://github.com/itsfedor/chat2earn) · [englishprogression](https://github.com/itsfedor/englishprogression) · [vocabquiz](https://github.com/itsfedor/vocabquiz) · [dailyenglish](https://github.com/itsfedor/dailyenglish) |
 | ⚡ **ChainLuck** | Provably-fair demo crypto casino: Dice, Plinko, Blackjack, Slots. Play money only | [repo](https://github.com/itsfedor/demo-casino) · [live](https://itsfedor.github.io/demo-casino) |
+| 🛠️ **Hermes Skills** | Harness-agnostic agent skills (agentskills.io format): ESL video-review summaries from recordings, homework workflows | [repo](https://github.com/itsfedor/hermes-skills) |
 
 ## ⚡ Recent activity
 
