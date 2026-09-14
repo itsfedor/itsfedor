@@ -52,4 +52,5 @@ _Appended automatically each evening. See [worklog](https://github.com/itsfedor/
 ## 📫 Get in touch
 
 - GitHub: [@itsfedor](https://github.com/itsfedor)
+- Telegram: @itsfedor
 - Open to AI-automation and EdTech collaborations. Check the repos, pick a pattern, and let's talk.
