@@ -28,10 +28,9 @@ tracker, AI-scored Minecraft plugins, interactive web demos.
 
 | Project | What it does | Proof | Stack |
 |---|---|---|---|
-| [**ESL Automation Suite**](https://github.com/itsfedor/esl-automation-suite) | AI teaching pipelines: lesson-guide generator, voice → Notion student tracker, TV-episode homework, Edvibe lesson builder | 5 pipelines · 2 installable agent skills | Python · LLM APIs · Notion |
+| [**ESL Automation Suite**](https://github.com/itsfedor/esl-automation-suite) | AI teaching pipelines: lesson-guide generator, voice → Notion student tracker, video-review summaries (Deepgram), TV-episode homework, Edvibe lesson builder | 6 pipelines · 3 installable agent skills | Python · LLM APIs · Notion · Deepgram |
 | **ESL Minecraft plugins** — [chat2earn](https://github.com/itsfedor/chat2earn) · [englishprogression](https://github.com/itsfedor/englishprogression) · [vocabquiz](https://github.com/itsfedor/vocabquiz) · [dailyenglish](https://github.com/itsfedor/dailyenglish) | 4 PaperMC plugins that turn a Minecraft server into an English classroom: AI-scored chat payouts, earnings-driven level-ups, vocab quizzes, daily tasks | 4 plugins · ~2,500 lines of Java · Vault + LuckPerms | Java · PaperMC · Groq |
 | [**ChainLuck**](https://github.com/itsfedor/demo-casino) | Provably-fair demo crypto casino — Dice, Plinko, Blackjack, Slots, Crash, Mines. Play money only | 6 games · machine-verified RTP (`rtp-check.mjs`) · [live demo](https://itsfedor.github.io/demo-casino) | Vanilla JS · GitHub Pages |
-| [**Hermes Skills**](https://github.com/itsfedor/hermes-skills) | Harness-agnostic agent skills (agentskills.io format) built from real workflows | runs in 70+ agent harnesses | Agents · Deepgram |
 | [**Worklog**](https://github.com/itsfedor/worklog) | Daily log of what actually shipped, written by a scheduled agent | machine-readable · one entry per workday | Automation |
 
 ## Recent activity
