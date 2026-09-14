@@ -38,6 +38,7 @@ tracker, AI-scored Minecraft plugins, interactive web demos.
 
 <!-- WORKLOG:START -->
 - **2026-09-15**: Portfolio overhaul: full secret + PII audit across all public repos (gitleaks on full history — no credentials; personal names redacted from 4 files and history), build files + Gradle wrappers added to 3 Minecraft plugins, download steps, dependency links and troubleshooting added to every plugin README, missing LICENSE added to worklog, all social-preview images refreshed.
+- **2026-09-15**: Rebranded the account: GitHub handle → itsfedor, display name → Fedor Molodtsov; every README, license, image asset, Pages URL and commit identity updated.
 - **2026-08-29**: Finished the video pipeline end to end: Deepgram Nova-3 transcription with EN+RU detection verified live, normalizer, transcript packer.
 - **2026-08-27**: Built a clean-B1 teacher's guide from the TED-Ed Prohibition video: simpler vocabulary, stronger everyday phrases, comprehension by timestamps, differentiation for weak and strong students.
 <!-- WORKLOG:END -->
