@@ -36,11 +36,10 @@ tracker, AI-scored Minecraft plugins, interactive web demos.
 ## Recent activity
 
 <!-- WORKLOG:START -->
-- **2026-09-15**: Portfolio overhaul: full secret + PII audit across all public repos (gitleaks on full history — no credentials; personal names redacted from 4 files and history), build files + Gradle wrappers added to 3 Minecraft plugins, download steps, dependency links and troubleshooting added to every plugin README, missing LICENSE added to worklog, all social-preview images refreshed.
-- **2026-09-15**: Rebranded the account: GitHub handle → itsfedor, display name → Fedor Molodtsov; every README, license, image asset, Pages URL and commit identity updated.
-- **2026-09-15**: Added screenshot galleries and a pipeline diagram to esl-automation-suite, plus copy-paste install instructions for AI agents; cross-linked all plugin READMEs.
-- **2026-08-29**: Finished the video pipeline end to end: Deepgram Nova-3 transcription with EN+RU detection verified live, normalizer, transcript packer.
-- **2026-08-27**: Built a clean-B1 teacher's guide from the TED-Ed Prohibition video: simpler vocabulary, stronger everyday phrases, comprehension by timestamps, differentiation for weak and strong students.
+- **2026-09-15**: Portfolio overhaul + rebrand to Fedor Molodtsov / itsfedor: full secret + PII audit of every public repo, Gradle wrappers and build files restored for the Minecraft plugins, every plugin README upgraded, all social previews refreshed.
+- **2026-09-15**: Published [cli-anything-edvibe](https://github.com/itsfedor/cli-anything-edvibe) — a reverse-engineered WebSocket-RPC CLI that builds Edvibe lessons and homework from specs (17 exercise types, 20 tests); a 27-block B2 lesson and three course units were built through it.
+- **2026-08-29**: Video pipeline end-to-end: Deepgram EN+RU transcription, a 16-minute homework-review edit with bilingual captions, and a student-facing HTML summary.
+- **2026-08-27**: Clean-B1 TED-Ed "Prohibition" guide with differentiated tasks, plus a clothes-quality homework pair staged Past Simple vs Present Perfect.
 <!-- WORKLOG:END -->
 
 _Appended by a scheduled agent when there's real work to log. Full history: [worklog](https://github.com/itsfedor/worklog)._
