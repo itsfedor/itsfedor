@@ -36,7 +36,7 @@ tracker, AI-scored Minecraft plugins, interactive web demos.
 ## Recent activity
 
 <!-- WORKLOG:START -->
-- **2026-10-05**: Portfolio re-audit + PII scrub (three histories rewritten and verified); shipped the live [Prism landing](https://itsfedor.github.io/prism-landing/); theme-adaptive banners across the repos; worklog backfilled (16 days).
+- **2026-10-05**: Portfolio re-audit + PII scrub (three histories rewritten, verified); [Prism landing](https://itsfedor.github.io/prism-landing/) and theme-adaptive banners shipped; a new B2 spoken lesson built and live-verified; the itsfedor.cc student area reworked — new IELTS review, privacy-hardened cabinet, and legal pages (/offer/, /privacy/) live.
 - **2026-10-04**: The grammar series now opens on one merged "Module 1 · Tenses" in all ten books — 31 lessons moved, modules renumbered, every publishing surface re-synced.
 - **2026-10-03**: Chart-part wave closed: 664 phone-readable chart images swapped into all 187 lesson copies; the two-part IELTS Trainer exam lesson built (48 exercises, answer keys server-verified 80/80).
 - **2026-10-02**: ESL feedback design system v1.3 (IELTS band card); shipped the password-protected student progress area live, verified with 33 API + 29 UI checks.
