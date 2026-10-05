@@ -36,10 +36,11 @@ tracker, AI-scored Minecraft plugins, interactive web demos.
 ## Recent activity
 
 <!-- WORKLOG:START -->
-- **2026-09-15**: Portfolio overhaul + rebrand to Fedor Molodtsov / itsfedor: full secret + PII audit of every public repo, Gradle wrappers and build files restored for the Minecraft plugins, every plugin README upgraded, all social previews refreshed.
-- **2026-09-15**: Published [cli-anything-edvibe](https://github.com/itsfedor/cli-anything-edvibe) — a reverse-engineered WebSocket-RPC CLI that builds Edvibe lessons and homework from specs (17 exercise types, 20 tests); a 27-block B2 lesson and three course units were built through it.
-- **2026-08-29**: Video pipeline end-to-end: Deepgram EN+RU transcription, a 16-minute homework-review edit with bilingual captions, and a student-facing HTML summary.
-- **2026-08-27**: Clean-B1 TED-Ed "Prohibition" guide with differentiated tasks, plus a clothes-quality homework pair staged Past Simple vs Present Perfect.
+- **2026-10-05**: Portfolio re-audit + PII scrub (three histories rewritten and verified); shipped the live [Prism landing](https://itsfedor.github.io/prism-landing/); theme-adaptive banners across the repos; worklog backfilled (16 days).
+- **2026-10-04**: The grammar series now opens on one merged "Module 1 · Tenses" in all ten books — 31 lessons moved, modules renumbered, every publishing surface re-synced.
+- **2026-10-03**: Chart-part wave closed: 664 phone-readable chart images swapped into all 187 lesson copies; the two-part IELTS Trainer exam lesson built (48 exercises, answer keys server-verified 80/80).
+- **2026-10-02**: ESL feedback design system v1.3 (IELTS band card); shipped the password-protected student progress area live, verified with 33 API + 29 UI checks.
+- **2026-10-01**: Two B2 spoken lessons built (Jury Duty; Succession business deals) — the sixteenth verified live build; launch message prepared for teacher communities.
 <!-- WORKLOG:END -->
 
 _Appended by a scheduled agent when there's real work to log. Full history: [worklog](https://github.com/itsfedor/worklog)._
