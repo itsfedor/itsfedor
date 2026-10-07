@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="assets/banner-wide.png" alt="Fedor Molodtsov — AI Automation Engineer · ESL EdTech Builder" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img alt="Fedor Molodtsov — AI Automation Engineer · ESL EdTech Builder" src="assets/banner-light.png" width="100%">
+</picture>
 
 <h1 align="center">Fedor Molodtsov · AI Automation Engineer</h1>
 
