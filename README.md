@@ -1,7 +1,12 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img alt="Fedor Molodtsov — AI Automation Engineer · ESL EdTech Builder" src="assets/banner-light.png" width="100%">
-</picture>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/about-dark.png"><img alt="Fedor Molodtsov — AI Automation Engineer and ESL EdTech builder (UTC+7)" src="assets/cards/about-light.png" width="32%"></picture>
+  <a href="https://github.com/itsfedor/esl-automation-suite"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/esl-automation-suite-dark.png"><img alt="ESL Automation Suite — six open-source AI teaching pipelines" src="assets/cards/esl-automation-suite-light.png" width="32%"></picture></a>
+  <a href="https://github.com/itsfedor/cli-anything-edvibe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/cli-anything-edvibe-dark.png"><img alt="cli-anything-edvibe — reverse-engineered CLI for Edvibe lessons and homework" src="assets/cards/cli-anything-edvibe-light.png" width="32%"></picture></a>
+  <br>
+  <a href="https://github.com/itsfedor/esl-feedback-design-system"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/esl-feedback-design-system-dark.png"><img alt="ESL Feedback Design System — palette, slot-marked templates, linter and render QA" src="assets/cards/esl-feedback-design-system-light.png" width="32%"></picture></a>
+  <a href="https://github.com/itsfedor/notion-charts"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/notion-charts-dark.png"><img alt="Notion Charts — JSON specs rendered into Notion-style chart and table PNGs" src="assets/cards/notion-charts-light.png" width="32%"></picture></a>
+  <a href="https://github.com/itsfedor/worklog"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/worklog-dark.png"><img alt="Worklog — a daily log of real shipped work" src="assets/cards/worklog-light.png" width="32%"></picture></a>
+</p>
 
 <h1 align="center">Fedor Molodtsov · AI Automation Engineer</h1>
 
