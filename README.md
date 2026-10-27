@@ -35,6 +35,7 @@ tracker, AI-scored Minecraft plugins, interactive web demos.
 |---|---|---|---|
 | [**ESL Automation Suite**](https://github.com/itsfedor/esl-automation-suite) | AI teaching pipelines: lesson-guide generator, voice → Notion student tracker, video-review summaries (Deepgram), TV-episode homework, Edvibe lesson builder | 6 pipelines · 3 installable agent skills | Python · LLM APIs · Notion · Deepgram |
 | **ESL Minecraft plugins** — [chat2earn](https://github.com/itsfedor/chat2earn) · [englishprogression](https://github.com/itsfedor/englishprogression) · [vocabquiz](https://github.com/itsfedor/vocabquiz) · [dailyenglish](https://github.com/itsfedor/dailyenglish) | 4 PaperMC plugins that turn a Minecraft server into an English classroom: AI-scored chat payouts, earnings-driven level-ups, vocab quizzes, daily tasks | 4 plugins · ~2,500 lines of Java · Vault + LuckPerms | Java · PaperMC · Groq |
+| **CLI tooling** — [cli-langlisto](https://github.com/itsfedor/cli-langlisto) · [cli-edvibe](https://github.com/itsfedor/cli-edvibe) | Terminal tools for the teacher workspace: students, classes, schedule, materials, and a spec-driven lesson builder; both ship a bundled agent skill | unofficial, reverse-engineered · 17 exercise types | Python · RPC · agent skills |
 | [**Worklog**](https://github.com/itsfedor/worklog) | Daily log of what actually shipped, written by a scheduled agent | machine-readable · one entry per workday | Automation |
 
 ## Recent activity
@@ -48,6 +49,16 @@ tracker, AI-scored Minecraft plugins, interactive web demos.
 <!-- WORKLOG:END -->
 
 _Appended by a scheduled agent when there's real work to log. Full history: [worklog](https://github.com/itsfedor/worklog)._
+
+## Licensing
+
+- **Code** — MIT across my repositories, except the four flagship projects
+  (ESL Automation Suite, cli-langlisto, notion-charts, feedback design system),
+  which are **Apache-2.0** with an explicit patent grant.
+- **Teaching materials** — lesson plans, books, exercises and the charts and
+  templates built for them are **CC BY-NC-SA 4.0**: free for teachers, no
+  resale, credit required.
+- **Cases** — three worked examples with numbers: [CASES.md](CASES.md).
 
 ## Get in touch
 
