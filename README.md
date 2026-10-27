@@ -55,9 +55,9 @@ _Appended by a scheduled agent when there's real work to log. Full history: [wor
 
 ## Licensing
 
-- **Code** — MIT across my repositories, except the six flagship projects
-  (ESL Automation Suite, cli-langlisto, notion-charts, feedback design system,
-  buildkit-mc, mc-render), which are **Apache-2.0** with an explicit patent grant.
+- **Code** — MIT across my repositories, except the four flagship projects
+  (ESL Automation Suite, cli-langlisto, notion-charts, feedback design system),
+  which are **Apache-2.0** with an explicit patent grant.
 - **Teaching materials** — lesson plans, books, exercises and the charts and
   templates built for them are **CC BY-NC-SA 4.0**: free for teachers, no
   resale, credit required.
