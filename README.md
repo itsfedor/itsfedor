@@ -54,7 +54,3 @@ _Appended by a scheduled agent when there's real work to log. Full history: [wor
 - GitHub: [@itsfedor](https://github.com/itsfedor)
 - Telegram: [@itsfedor](https://t.me/itsfedor)
 - Open to AI-automation and EdTech collaborations. Pick a repo, check the README, and let's talk.
-
-## License
-
-The repositories listed above are licensed under [AGPL-3.0](LICENSE) unless their own README says otherwise. Commercial use that cannot comply with AGPL: [commercial license](COMMERCIAL.md).
