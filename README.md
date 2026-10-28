@@ -44,11 +44,11 @@ tracker, AI-scored Minecraft plugins, interactive web demos.
 ## Recent activity
 
 <!-- WORKLOG:START -->
+- **2026-10-28**: Three answer keys (19 article corrections, each with the why and spoken variants) shipped into a B2 lesson and read back clean over 11 exercises; a lesson section now renumbers in one `SaveExercisesPosition` call, and the daily dashboard deploy was restored with an npx wrangler shim.
 - **2026-10-27**: Two new public repos shipped — `buildkit-mc` (headless-build Paper plugin) and `mc-render` (region files into stills, orbits and clips); licences standardised across 15 repos, MIT by default with Apache-2.0 on four flagships, and CI now runs in 10 repos with Dependabot in 6.
 - **2026-10-26**: Trial booking on itsfedor.cc went free for everyone — instant confirmations, no payment step, both offers re-editioned (46/46 free-mode, 91/91 paid-mode QA) — and BuildKit, a 23-class Paper plugin for headless builds, shipped `/bk` structure saves, rotations, tick-batched scripts, walkchecks and undo: 6/6 acceptance criteria, live at TPS 20.
 - **2026-10-25**: Progression split into two axes — rank from lifetime earnings, CEFR only from a 25-question `/cefr` placement test with listening audio — 13 NPC quests that hung forever now close, and a headless `mcbuild` CLI cuts world regions into datapacks (a mirrored gate matched 1,763 of 1,792 cells).
 - **2026-10-23**: Six progress cards re-anchored to a live read-only course scan, quarter levels stopped dropping below their starting level, goals counted in lessons instead of months — deployed byte-identical with its API closed at 401; 15.7k community messages ranked into 10 teacher pain points.
-- **2026-10-22**: Built an answer-engine visibility tracker (15 prompts, 90 citation slots) against a 0/15 baseline; the dashboard got a progress card on a 4.6k-answer DB, tariffs unified on one canon, and a referral free-trial flow at 91/91 booking QA.
 <!-- WORKLOG:END -->
 
 _Appended by a scheduled agent when there's real work to log. Full history: [worklog](https://github.com/itsfedor/worklog)._
