@@ -44,11 +44,11 @@ tracker, AI-scored Minecraft plugins, interactive web demos.
 ## Recent activity
 
 <!-- WORKLOG:START -->
+- **2026-10-30**: The progress card on itsfedor.cc went behind a single reversible `SHOW_PROGRESS` flag — markup and data untouched, the live file md5-matching the build; a token-guarded HTTP→BLE bridge got a stubbed end-to-end harness (9 checks), and four prompt-to-video routes were priced out by cost and GPU floor.
 - **2026-10-29**: Meta pixel unblocked in the CSP and verified on the live header; JSON-LD shipped on four pages (Person, WebSite, Service, Product, CollectionPage) with an IndexNow key and three engines accepting the ping; the timetable sync went from daily to every three hours behind a no-LLM timer, and the dashboard prediction block was hidden behind a single reversible flag.
 - **2026-10-28**: Three answer keys (19 article corrections, each with the why and spoken variants) shipped into a B2 lesson and read back clean over 11 exercises; a lesson section now renumbers in one `SaveExercisesPosition` call, and the daily dashboard deploy was restored with an npx wrangler shim.
 - **2026-10-27**: Two new public repos shipped — `buildkit-mc` (headless-build Paper plugin) and `mc-render` (region files into stills, orbits and clips); licences standardised across 15 repos, MIT by default with Apache-2.0 on four flagships, and CI now runs in 10 repos with Dependabot in 6.
 - **2026-10-26**: Trial booking on itsfedor.cc went free for everyone — instant confirmations, no payment step, both offers re-editioned (46/46 free-mode, 91/91 paid-mode QA) — and BuildKit, a 23-class Paper plugin for headless builds, shipped `/bk` structure saves, rotations, tick-batched scripts, walkchecks and undo: 6/6 acceptance criteria, live at TPS 20.
-- **2026-10-25**: Progression split into two axes — rank from lifetime earnings, CEFR only from a 25-question `/cefr` placement test with listening audio — 13 NPC quests that hung forever now close, and a headless `mcbuild` CLI cuts world regions into datapacks (a mirrored gate matched 1,763 of 1,792 cells).
 <!-- WORKLOG:END -->
 
 _Appended by a scheduled agent when there's real work to log. Full history: [worklog](https://github.com/itsfedor/worklog)._
