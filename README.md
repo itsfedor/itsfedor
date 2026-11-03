@@ -44,11 +44,11 @@ tracker, AI-scored Minecraft plugins, interactive web demos.
 ## Recent activity
 
 <!-- WORKLOG:START -->
+- **2026-11-03**: A gradient-plane redactor cleaned 20 screenshot name cards with zero seams and zero changed pixels on the card meant to stay; an Edvibe write-lock on publishing-house lessons was routed around with an additive audio swap, and sheet ordering turned out to be fixed at attach time.
 - **2026-11-02**: A single-file 9×9 mandala chart app shipped (30 KB, fully offline, 81 cells, JSON round-trip, A4 PDF) and was browser-checked at desktop and phone widths; countdowns came off two IELTS lessons — 34 blocks disabled, 55 edits applied, 12 pages read back with zero timed widgets, and a reusable `sanitize_spec()` guard keeps rebuilds timer-free.
 - **2026-11-01**: A new `Listening Practice — Extra Sets` block went live in the IELTS trainer: six timed Part-3 sets (B2→C1, 40 questions), every key cross-checked against the source's marked answer, each set carrying a hidden note with the key table, a per-question why and a speaker-labelled transcript — 19 items, 40 dropdowns, 6 embeds and 8-minute timers read back clean; the section sort field turned out to be a write no-op, so it was repositioned by one position call.
 - **2026-10-30**: The progress card on itsfedor.cc went behind a single reversible `SHOW_PROGRESS` flag — markup and data untouched, the live file md5-matching the build; a token-guarded HTTP→BLE bridge got a stubbed end-to-end harness (9 checks), and four prompt-to-video routes were priced out by cost and GPU floor.
 - **2026-10-29**: Meta pixel unblocked in the CSP and verified on the live header; JSON-LD shipped on four pages (Person, WebSite, Service, Product, CollectionPage) with an IndexNow key and three engines accepting the ping; the timetable sync went from daily to every three hours behind a no-LLM timer, and the dashboard prediction block was hidden behind a single reversible flag.
-- **2026-10-28**: Three answer keys (19 article corrections, each with the why and spoken variants) shipped into a B2 lesson and read back clean over 11 exercises; a lesson section now renumbers in one `SaveExercisesPosition` call, and the daily dashboard deploy was restored with an npx wrangler shim.
 <!-- WORKLOG:END -->
 
 _Appended by a scheduled agent when there's real work to log. Full history: [worklog](https://github.com/itsfedor/worklog)._
