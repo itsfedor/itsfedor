@@ -44,11 +44,9 @@ tracker, AI-scored Minecraft plugins, interactive web demos.
 ## Recent activity
 
 <!-- WORKLOG:START -->
+- **2026-11-05**: The mandala 9×9 planner went public as an MIT repo with a Pages demo — one 48 KB offline HTML file, 81 editable cells, banners and two demo GIFs.
 - **2026-11-04**: The 9×9 mandala app became a three-step flow (goal → 8 pillars → 64 actions) with a 950 ms panel-to-cell morph, verified at 1440 and 390; the dashboard merged 8 equal KPI tiles into 3, lifting the calendar 110 px.
 - **2026-11-03**: A gradient-plane redactor cleaned 20 screenshot name cards with zero seams; an Edvibe write-lock was routed around with an additive audio swap.
-- **2026-11-02**: A single-file 9×9 mandala chart app shipped (81 cells, JSON round-trip, A4 PDF); countdowns came off two IELTS lessons behind a reusable `sanitize_spec()` guard.
-- **2026-11-01**: Six timed Part-3 listening sets went live in the IELTS trainer — 40 questions, 40/40 keys cross-checked; the section sort field turned out to be a write no-op.
-- **2026-10-30**: The itsfedor.cc progress card went behind one reversible flag; a token-guarded HTTP→BLE bridge got a 9-check harness, and four prompt-to-video routes were priced out.
 <!-- WORKLOG:END -->
 
 _Appended by a scheduled agent when there's real work to log. Full history: [worklog](https://github.com/itsfedor/worklog)._
