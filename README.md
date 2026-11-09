@@ -44,9 +44,9 @@ tracker, AI-scored Minecraft plugins, interactive web demos.
 ## Recent activity
 
 <!-- WORKLOG:START -->
+- **2026-11-09**: `telegram-live-call` went public under MIT — an owner-only voice bridge (Deepgram → OpenRouter → ElevenLabs) with consent gating and 136 passing offline tests.
 - **2026-11-05**: The mandala 9×9 planner went public as an MIT repo with a Pages demo — one 48 KB offline HTML file, 81 editable cells, banners and two demo GIFs.
 - **2026-11-04**: The 9×9 mandala app became a three-step flow (goal → 8 pillars → 64 actions) with a 950 ms panel-to-cell morph, verified at 1440 and 390; the dashboard merged 8 equal KPI tiles into 3, lifting the calendar 110 px.
-- **2026-11-03**: A gradient-plane redactor cleaned 20 screenshot name cards with zero seams; an Edvibe write-lock was routed around with an additive audio swap.
 <!-- WORKLOG:END -->
 
 _Appended by a scheduled agent when there's real work to log. Full history: [worklog](https://github.com/itsfedor/worklog)._
