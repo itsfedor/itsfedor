@@ -44,9 +44,9 @@ tracker, AI-scored Minecraft plugins, interactive web demos.
 ## Recent activity
 
 <!-- WORKLOG:START -->
+- **2026-11-14**: Built episode six of The Good Doctor A2+ lesson series — seven quote-backed exercises, six verified episode stills at 1280×720.
 - **2026-11-11**: Shipped a six-section speaking lesson on the updated Nutri-Score label — 41 exercises, timed exact-listening gaps, locally rendered cover art, platform read-back clean.
 - **2026-11-09**: `telegram-live-call` went public under MIT — an owner-only voice bridge (Deepgram → OpenRouter → ElevenLabs) with consent gating and 136 passing offline tests.
-- **2026-11-05**: The mandala 9×9 planner went public as an MIT repo with a Pages demo — one 48 KB offline HTML file, 81 editable cells, banners and two demo GIFs.
 <!-- WORKLOG:END -->
 
 _Appended by a scheduled agent when there's real work to log. Full history: [worklog](https://github.com/itsfedor/worklog)._
